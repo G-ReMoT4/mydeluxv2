@@ -239,7 +239,7 @@ export default function Home() {
               },
               { 
                 players: '32 მოთამაშე', 
-                price: '22₾', 
+                price: '20₾', 
                 features: ['FTP წვდომა', 'WEB პანელი', 'FPS 1000', 'გაგრძელება']
               }
             ].map((plan, index) => (
